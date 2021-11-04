@@ -1,0 +1,56 @@
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+destination: _site
+
+# SEO settings
+url: http://lnd4ir.github.io
+baseurl: ""
+# baseurl: ""
+
+
+# Author settings
+author:
+  name      : Mostafa Dehgahni
+  url       : http://mostafadehghani.com/
+
+
+# Site settings
+title: LND4IR
+# email: your-email@domain.com
+description: "First international workshop on learning from limitted noisy data for information retrieval."
+
+# Build settings
+# permalink: pretty
+theme: jekyll-theme-minimal
+
+
+# Team names, titles and social links
+people:
+- name: Hamed Zamani
+  pic: 1
+  position: University of Massachusetts Amherst
+  url: http://cs.umass.edu/~zamani
+
+- name: Mostafa Dehgahni
+  pic: 2
+  position: University of Amsterdam
+  url: http://mostafadehghani.com/
+
+- name: Fernando Diaz
+  pic: 3
+  position: Spotify
+  url: http://fernando.diaz.nyc/
+
+- name: Hang Li
+  pic: 4
+  position: Toutiao
+  url: http://hangli-hl.com/index.html
+
+- name: Nick Craswell
+  pic: 5
+  position: Microsoft
+  url: https://www.microsoft.com/en-us/research/people/nickcr/
+
+
