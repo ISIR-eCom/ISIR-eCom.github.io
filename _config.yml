@@ -6,7 +6,7 @@ destination: _site
 
 # SEO settings
 url: http://isir-ecom.github.io
-baseurl: "http://isir-ecom.github.io"
+baseurl: ""
 # baseurl: ""
 
 
