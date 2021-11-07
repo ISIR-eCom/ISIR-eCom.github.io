@@ -6,7 +6,7 @@ destination: _site
 
 # SEO settings
 url: http://isir-ecom.github.io
-baseurl: ""
+baseurl: "http://isir-ecom.github.io"
 # baseurl: ""
 
 
@@ -36,12 +36,12 @@ people:
 - name: Linsey Pang
   pic: 2
   position: Walmart Global Tech
-  url: https://www.linkedin.com/in/linsey-pang
+  url: https://www.linkedin.com/in/linsey-pang-50590450
 
 - name: Xiquan Cui
   pic: 3
   position: The Home Depot
-  url: https://www.linkedin.com/in/xiquan-cui
+  url: https://www.linkedin.com/mwlite/in/xiquan-cui-%E5%B4%94%E5%96%9C%E6%B3%89-2486b115
 
 - name: Lingfei Wu
   pic: 4
