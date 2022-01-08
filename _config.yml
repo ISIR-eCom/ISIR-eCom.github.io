@@ -80,9 +80,14 @@ panel:
    pic: 4
    position:  Senior Software Engineer at Google 
    url: https://www.linkedin.com/in/mohit-sharma-77008b33
+   
+ - name: Rui Li
+   pic: 5
+   position:  Machine Learning Engineer Manager at Pinterest
+   url: https://www.linkedin.com/in/rui-li-4044a81/
 
  - name: Lingfei Wu
-   pic: 5
+   pic: 6
    position: Principal Scientist at JD.COM Silicon Valley Research Center
    url: https://sites.google.com/a/email.wm.edu/teddy-lfwu/
 
