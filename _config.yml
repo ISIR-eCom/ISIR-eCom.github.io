@@ -63,22 +63,22 @@ people:
 panel:
  - name: Pranam Kolari
    pic: 1
-   position: VP@search, Walmart Global Tech
+   position: Walmart Global Tech
    url: https://www.linkedin.com/in/pranamkolari
 
  - name: Stephen Guo
    pic: 2
-   position: Director@ads, Walmart Global Tech
+   position: Walmart Global Tech
    url: https://www.linkedin.com/in/stephen-guo-34515347
 
  - name: Max Harper
    pic: 3
-   position: Applied Scientist at Amazon
+   position:  Amazon 
    url: https://www.linkedin.com/in/maxharper
 
  - name: Mohit Sharma
    pic: 4
-   position: Software Engineer at Google
+   position:  Google 
    url: https://www.linkedin.com/in/mohit-sharma-77008b33
 
  - name: Lingfei Wu
