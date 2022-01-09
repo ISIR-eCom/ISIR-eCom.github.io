@@ -61,30 +61,31 @@ people:
 
 # Team names, titles and social links
 panel:
- - name: Pranam Kolari
-   pic: 1
-   position: VP@search, Walmart Global Tech
-   url: https://www.linkedin.com/in/pranamkolari
-
  - name: Stephen Guo
-   pic: 2
+   pic: 1
    position: Director@ads, Walmart Global Tech
    url: https://www.linkedin.com/in/stephen-guo-34515347
-
+   
  - name: Max Harper
-   pic: 3
+   pic: 2
    position:  Senior Applied Research Scientist at Amazon 
    url: https://www.linkedin.com/in/maxharper
-
- - name: Mohit Sharma
-   pic: 4
-   position:  Senior Software Engineer at Google 
-   url: https://www.linkedin.com/in/mohit-sharma-77008b33
+ 
+ - name: Pranam Kolari
+   pic: 3
+   position: VP@search, Walmart Global Tech
+   url: https://www.linkedin.com/in/pranamkolari
    
  - name: Rui Li
-   pic: 5
+   pic: 4
    position:  Machine Learning Engineer Manager at Pinterest
    url: https://www.linkedin.com/in/rui-li-4044a81/
+
+
+ - name: Mohit Sharma
+   pic: 5
+   position:  Senior Software Engineer at Google 
+   url: https://www.linkedin.com/in/mohit-sharma-77008b33
 
  - name: Lingfei Wu
    pic: 6
