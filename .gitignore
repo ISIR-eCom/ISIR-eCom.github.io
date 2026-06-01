@@ -1,0 +1,31 @@
+# Jekyll build output
+_site/
+2022/_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS
+.DS_Store
+**/.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sensitive / local data
+email_list.txt
+email_list_ready.txt
+
+# Node (if ever added)
+node_modules/
+npm-debug.log*
